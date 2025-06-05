@@ -1,11 +1,12 @@
 body {
-  font-family: 'Noto Sans', sans-serif;
+  font-family: 'Aptos', sans-serif;
+  background-color: slategrey;
 }
 
 
 .footer .icon-link {
     font-size: 25px;
-    color: #000;
+    color: #ffffff;
 }
 
 .link-block a {
@@ -24,7 +25,7 @@ body {
 }
 
 .teaser {
-  font-family: 'Google Sans', sans-serif;
+  font-family: 'Aptos', sans-serif;
 }
 
 
@@ -48,11 +49,11 @@ body {
 }
 
 .publication-title {
-    font-family: 'Google Sans', sans-serif;
+    font-family: 'Aptos', sans-serif;
 }
 
 .publication-authors {
-    font-family: 'Google Sans', sans-serif;
+    font-family: 'Aptos', sans-serif;
 }
 
 .publication-venue {
